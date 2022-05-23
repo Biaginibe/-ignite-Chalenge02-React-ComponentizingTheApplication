@@ -15,4 +15,4 @@
 <p align="justify">Foi disponibilizado um repositório com um código pronto mas que continha todo o código no App.tsx, onde a necessidade era passar parte do código para o componente do SideBar.tsx e outra parte para o componente Content.tsx</p>
 
 
-> Status do Projeto: Em desenvolvimento :woman_technologist:
+> Status do Projeto: Concluído :heavy_check_mark:
